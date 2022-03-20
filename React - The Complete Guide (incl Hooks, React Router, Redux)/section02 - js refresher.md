@@ -20,5 +20,4 @@ const myFnc = () => {
 <img width="1509" alt="Screen Shot 2022-03-18 at 5 30 27 PM" src="https://user-images.githubusercontent.com/86972559/159085455-3f5a6d91-c1a6-474a-af54-c8ad579ad611.png">
 
 
-#### Export & Import (Modules)
-both are same
+#### class
