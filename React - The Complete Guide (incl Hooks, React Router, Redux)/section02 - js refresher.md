@@ -2,7 +2,6 @@
 ## Scope
 
 #### Arrow Functions
-both are same
 
 ```js
 function myFnc(){
